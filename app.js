@@ -65,7 +65,7 @@ const quotes = [
         person: "Ralph Waldo Emerson"
     },
     {
-        quote: "The only impossible journey is the one you never begin.",
+        quote: "The only impossible journey is the one you never beginn.",
         person: "Tony Robbins"
     }
 ];
